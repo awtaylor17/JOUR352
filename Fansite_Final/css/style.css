@@ -1,0 +1,87 @@
+body {
+  background-color: #d8e8d8;
+  font-family: "Fjord One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+p {
+  color:#282928
+}
+
+h1{
+  color:#d8e8d8;
+  background-color: #282928;
+  padding: 50px;
+  text-align: center;
+  margin: 50px 0 50px 0;
+}
+
+a{
+  color:#1f7035;
+  text-decoration: none;
+}
+a:visted {
+  color:#1f7035;
+  text-decoration: none;
+}
+a:hover{
+  color:#282928;
+  text-decoration: none;
+}
+
+.bio {
+border: solid 2px #282928;
+padding: 20px;
+background-color: #1f7035;
+width: 60%;
+border-radius: 15px;
+}
+
+.bio_text {
+color:#d8e8d8;
+text-decoration: none;
+}
+
+.bio_link {
+color:#282928;
+text-decoration: none;
+}
+
+.bio_link:hover {
+color:#d8e8d8;
+text-decoration: none;
+}
+
+.button{
+border: solid 2px #282928;
+padding: 10px;
+background-color: #282928;
+width: 15%;
+border-radius: 15px;
+text-align: center;
+margin: 0 0 0 40%;
+}
+
+.button_text{
+ color:#d8e8d8;
+ text-align: center;
+}
+
+.button_text:hover{
+ color:#d8e8d8;
+ text-align: center;
+}
+
+.gallery {
+  padding: 10px;
+  width: 15%;
+  margin: 0 0 0 29%;
+}
+
+.index_pic {
+  margin: 0 30px 0 0;
+}
+
