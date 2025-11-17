@@ -1,0 +1,78 @@
+.job_title{
+    font-weight: bold;
+}
+
+.title{
+    margin-top: 20px;
+}
+
+p{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+a{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h1{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h2{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+h3{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.button.small{
+    background-color: #d7ecfa;
+    color: #000000;
+    border-radius: 10px;
+}
+
+.button.small:hover{
+    background-color: #edf8ff;
+    color: #787878;
+    border-radius: 10px;
+}
+
+.clip_headline{
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #000000;
+    background-color: transparent;
+}
+
+.clip_headline:hover{
+    font-weight: bold;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #787878;
+    background-color: transparent;
+}
+
+
+
+
+
+/* FONT */
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
